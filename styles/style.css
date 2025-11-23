@@ -1,3 +1,19 @@
+@font-face {
+  font-family: "Raleway";
+  src: url(./Raleway-Regular.woff2) format("woff2"),
+    url(./Raleway-Regular.woff) format("woff");
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway2";
+  src: url(./Raleway-Bold.woff2) format("woff2"),
+    url(./Raleway-Bold.woff) format("woff");
+  font-weight: bold;
+  font-display: swap;
+}
+
 .header {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
@@ -6,9 +22,7 @@
   font-size: 18px;
   text-decoration-skip-ink: none;
 }
-.header_link {
-  text-decoration: none;
-}
+
 .header_menu {
   display: flex;
   align-items: flex-start;
@@ -39,6 +53,7 @@
   margin: 0 auto;
   font-style: normal;
   gap: 0;
+  text-decoration: none;
 }
 address {
   margin-left: auto;
