@@ -145,7 +145,7 @@ address {
   height: 723px;
 }
 .lots__heading {
-  font-family: "Raleway2", sans-serif;
+  font-family: "Raleway2";
   font-weight: 700;
   font-size: 40px;
   line-height: 100%;
@@ -183,7 +183,7 @@ address {
 .card__title {
   max-width: 254px;
   color: #ffffff;
-  font-family: "Raleway2", sans-serif;
+  font-family: "Raleway2";
   font-weight: 700;
   font-size: 22px;
   line-height: 120%;
@@ -195,7 +195,7 @@ address {
   text-underline-offset: 5px;
 }
 .card__text {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway";
   font-weight: 400;
   font-style: Regular;
   font-size: 20px;
@@ -221,7 +221,7 @@ address {
   justify-content: left;
   margin-top: 34px;
   padding-left: 40px;
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway";
   font-weight: 400;
   font-style: normal;
   font-size: 20px;
@@ -239,7 +239,7 @@ address {
 .about__column {
   display: flex;
   flex-direction: column;
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway";
   margin-bottom: 186px;
 }
 
@@ -262,7 +262,7 @@ address {
 
 .about__title {
   margin: 105px 8px 8px;
-  font-family: "Raleway2", sans-serif;
+  font-family: "Raleway2";
   font-weight: 700;
   font-style: bold;
   font-size: 40px;
