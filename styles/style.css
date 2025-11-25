@@ -18,7 +18,7 @@
   text-underline-position: unset;
 }
 
-.header__links-list-item_no-bullit {
+.header__link_active {
   text-decoration: none;
 }
 
@@ -264,7 +264,7 @@
 }
 
 .footer {
-  padding: 2px 24px 0;
+  padding: 2px 24px 82px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 20px;
